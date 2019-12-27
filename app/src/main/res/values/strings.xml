@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reddit</string>
+    <string name="author">author</string>
+
+    <string name="created">created</string>
+
+    <string name="hours_ago">hours ago</string>
+
+    <string name="comments">comments</string>
+
+    <string name="save_in_gallery">save in gallery</string>
+
+    <string name="error_save_gallery">An error has occurred while saving the picture in gallery</string>
+    <string name="error_gallery_not_available">The gallery is not available</string>
+
+</resources>
